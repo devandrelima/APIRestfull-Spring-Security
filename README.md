@@ -16,7 +16,7 @@ GET /product/list - List of all products. (all users).
 
 POST /product - Add product. (ADMIN access required).
 
-PUT /product - Register a new product (ADMIN access required).
+PUT /product - Update the product (ADMIN access required).
 
 DELETE /product/{id} - Delete a product (ADMIN access required).
 
