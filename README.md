@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-# CRUD com Spring Boot 3
-## Objetivo
-Praticar conceitos como API, API Rest, API Restful, integrando um código Java com o banco de dados PostgreSQL através do Spring Boot ao realizar um CRUD (Create, Read, Update, Delete).
-
-## Tecnologias Utilizadas
-- Spring Boot
-- PostgreSQL
-- Java
-- SQL
-- Postman
-- VS Code
-=======
 # API Restfull with Spring Security
 
 ## Technologies Used
@@ -58,4 +45,3 @@ Example Register User:
     }
 OBS: Both generate a diferent Bearer Token
 ```
->>>>>>> f4fb998d6911db58575c01a13260dd48ed96564d
